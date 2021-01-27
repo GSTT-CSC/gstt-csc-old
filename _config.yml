@@ -4,7 +4,7 @@ source: .
 incremental: false
 highlighter: rouge
 title: CSC
-description: Clinical Scientific Computing
+description: Clinical Scientific Computing @ Guy's & St Thomas NHS Foundation Trust
 gist:
   noscript: false
 kramdown:

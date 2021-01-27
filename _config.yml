@@ -3,6 +3,8 @@ safe: true
 source: .
 incremental: false
 highlighter: rouge
+title: CSC
+description: Clinical Scientific Computing
 gist:
   noscript: false
 kramdown:

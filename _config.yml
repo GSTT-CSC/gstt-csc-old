@@ -1,14 +1,4 @@
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
 title: CSC
 description: Clinical Scientific Computing @ Guy's & St Thomas NHS Foundation Trust
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 theme: jekyll-theme-time-machine

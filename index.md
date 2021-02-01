@@ -1,5 +1,4 @@
-# [Team](team.md)
+# Mission Statement
 
-# [Work](work.md)
+# Values
 
-# [Reading List](reading.md)

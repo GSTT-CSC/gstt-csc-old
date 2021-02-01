@@ -47,9 +47,9 @@
   Contact: [Haris](team/haris.md)
 * AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer\
   Contact: [Laurence](team/laurence.md)
-* SPECT CT and evaluation of prosthetic loosening
+* SPECT CT and evaluation of prosthetic loosening\
   Contact: [Dika](team/dika.md)
-* Identifying radiological biomarkers in breast cancer patients on immune therapy
+* Identifying radiological biomarkers in breast cancer patients on immune therapy\
   Contact: [Haris](team/haris.md)
-* Detecting bowel perfroration in paediatric xrays
+* Detecting bowel perfroration in paediatric xrays\
   Contact: [Simone](team/simone.md)

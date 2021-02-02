@@ -5,6 +5,7 @@ Reading List
 * [Python](#python)
 * [DevOps](#devops)
 * [Machine Learning](#ml)
+* [Clinical Informatics](#informatics)
 
 ## <a name=meddev></a>Medical Devices 
 * [Something](#someting)
@@ -29,5 +30,8 @@ Reading List
 ## <a name=ml></a>Machine Learning 
 * [Guidance: A guide to good practice for digital and data-driven health technologies](https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology)
 * [Best-practice guidance for the in-house manufacture of medical devices and non- medical devices, including software in both cases, for use within the same health institution](https://www.ipem.ac.uk/Portals/0/IHMU%20best-practice%20guidance%20FINAL.pdf?ver=2021-01-18-101840-073)  
-* [Pytorch]
+* [Pytorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 * [MONAI](https://monai.io)
+
+## <a name=informatics></a>Clinical Informatics
+* [Core competency framework for clinical informaticians](https://facultyofclinicalinformatics.org.uk/core-competency-framework)

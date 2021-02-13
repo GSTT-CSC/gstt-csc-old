@@ -23,8 +23,9 @@
 * In house medical device framework
 
 ## AI Projects 
-* Automatic lung nodule detection and characterisation on CT Chest\
-  Contact: [Haris](team/haris.md)
+***nb. use this [project template](project.md)***
+
+* [Automatic lung nodule detection and characterisation on CT Chest](projects/lung_nodule.md)  
 * Fracture: Occult Carpal Detection in X-Ray -- Next Steps post TOHETI\
   Contact: [Dika](team/dika.md) supported by [Laurence](team/laurence.md)
 * Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis\

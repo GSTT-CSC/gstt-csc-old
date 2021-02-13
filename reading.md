@@ -1,5 +1,4 @@
-Reading List
-============
+# **Reading List**
 
 * [Medical Devices](#meddev)
 * [Python](#python)
@@ -32,7 +31,7 @@ Reading List
 * [Best-practice guidance for the in-house manufacture of medical devices and non- medical devices, including software in both cases, for use within the same health institution](https://www.ipem.ac.uk/Portals/0/IHMU%20best-practice%20guidance%20FINAL.pdf?ver=2021-01-18-101840-073)  
 * [Pytorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 * [MONAI](https://monai.io)
-* [ML with limited data] (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/941511/Machine_Learning_with_Limited_Data_original_version_.pdf)
+* [ML with limited data](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/941511/Machine_Learning_with_Limited_Data_original_version_.pdf)
 
 ## <a name=informatics></a>Clinical Informatics
 * [Core competency framework for clinical informaticians](https://facultyofclinicalinformatics.org.uk/core-competency-framework)

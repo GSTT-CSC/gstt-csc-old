@@ -13,7 +13,8 @@
 
 ## <a name=update></a>**Update this website**
 `nb. if at any point something unexpected happens at any point STOP and ask for help!`
-#### Do this first time, then skip
+#### Do this first time, then skip  
+
 1. Go to <https://github.com/GSTT-CSC/gstt-csc.github.io>
 2. Hit the green `Code` button
 3. Choose `Open with Github Desktop`
@@ -21,7 +22,8 @@
    
 4. In Github Desktop (GHD), log in using your Github credentials and clone the repo locally
 
-#### Usual process
+#### Usual process  
+
 5. Check with Haris about the changes you would like to make first
 6. In GHD, click current branch button and then click new branch
 7. Give it a short, sensible hyphen-separated name in the imperative e.g. update-team-page
@@ -34,9 +36,6 @@
    >  The website should be available locally on `http://localhost:4000` now
    
 10. Make changes to your code using your favourite editor/IDE (just use Pycharm)
-  
-   >  See the changes update on your local website by refreshing `http://localhost:4000`
-
 11. Commit your code once you're happy with your changes using the template below
 12. Publish your branch to github
 13. On the Github website, go to `Pull requests` and click `New pull request`

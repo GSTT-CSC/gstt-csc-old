@@ -1,4 +1,4 @@
-# Mission Statement
+# **Mission Statement**
 Developing (people | platforms | policy) for digital health
 
 <object width="400" height="250" type="application/pdf" data="/files/3YearPlan_MT.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">

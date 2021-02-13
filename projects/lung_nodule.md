@@ -1,15 +1,10 @@
-# AI project template
-Use this markdown file to collect and share the appropriate information regarding each AI project.  
+# **Lung nodules**
 
-For every project there should be a dedicated markdown file e.g. lung_nodule.md inside the projects folder.
-
-This should be linked to from the [Work](work.md) page so people can find it.
-
-| Project Title | bar |
+| Project Title | Automatic lung nodule detection and characterisation on CT Chest |
 | --- | --- |
 | Clinical lead(s) | bim |
 | --- | --- |
-| CSC lead | bim |
+| CSC lead | [Haris](team/haris.md) |
 | --- | --- |
 | Rationale | bim |
 | --- | --- |

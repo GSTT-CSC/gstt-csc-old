@@ -23,6 +23,8 @@
 * In house medical device framework
 
 ## AI Projects 
+***nb. use this [project template](project.md)***
+
 * Automatic lung nodule detection and characterisation on CT Chest\
   Contact: [Haris](team/haris.md)
 * Fracture: Occult Carpal Detection in X-Ray -- Next Steps post TOHETI\

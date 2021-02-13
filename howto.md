@@ -12,11 +12,11 @@
 <hr>
 
 ## <a name=update></a>**Update this website**
-
+`nb. if at any point something unexpected happens at any point STOP and ask for help!`
 #### Do this first time, then skip
 1. Go to <https://github.com/GSTT-CSC/gstt-csc.github.io>
-2. Hit the green "Code" button
-3. Choose "Open with Github Desktop"
+2. Hit the green `Code` button
+3. Choose `Open with Github Desktop`
    > You'll be asked to download it if you don't have it.
    
 4. In Github Desktop (GHD), log in using your Github credentials and clone the repo locally
@@ -39,7 +39,10 @@
 
 11. Commit your code once you're happy with your changes using the template below
 12. Publish your branch to github
-13. 
+13. On the Github website, go to `Pull requests` and click `New pull request`
+14. Make sure the `base` branch is `main` and the `compare` branch is your published branch
+15. Click `Create pull request`
+16. This will allow your code to be reviewed by a team member and then merged into live website!
 
 **Commit template** (read more here: <https://chris.beams.io/posts/git-commit/>> 
 >      Summarize changes in around 50 characters or less
@@ -72,3 +75,5 @@
 >      [1](http:// some url)
 >      [2](http:// some url)
 >      [3](http:// some url)
+
+<hr>

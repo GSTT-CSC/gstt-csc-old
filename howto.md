@@ -1,4 +1,8 @@
-# **How-to**
+---
+layout: default
+title: How-to
+description: Instructions, SOPs and guides
+---
 
 <div class="card" style="width: 18rem;">
    <div class="card-body">

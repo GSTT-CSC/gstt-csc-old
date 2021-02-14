@@ -1,4 +1,8 @@
-# **Reading List**
+---
+layout: default
+title: Reading List
+description: Articles, tutorials and essays
+---
 
 <div class="card" style="width: 18rem;">
     <div class="card-body">

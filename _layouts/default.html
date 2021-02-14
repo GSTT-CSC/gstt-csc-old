@@ -1,26 +1,10 @@
-<!doctype html>
-<html lang="{{ site.lang | default: 'en-US'}}">
-{% include head.html %}}
-<body>
-{% include navbar.html %}
-<div class="container mt-5 p-5">
-    <div class="row">
-        <br>
-    </div>
-    <div class="row">
-        <div class="col-8">
-            <article class="markdown-body" style="font-family: 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">
-                {{ content }}
-            </article>
-        </div>
-        <div class="col-4">
-        <a class="twitter-timeline" data-height="500" data-link-color="{{ site.colors.links }}" href="https://twitter.com/CSC_GSTT">
-          Tweets by CSC @ GSTT
-        </a>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-    </div>
+---
+layout: base
+---
+<div class="row">
+  <div class="col-md-10 col-lg-8 mx-auto">
+
+    {{ content }}
+
+  </div>
 </div>
-{% include footer.html %}
-</body>
-</html>

@@ -1,0 +1,34 @@
+- title: Automatic lung nodule detection and characterisation on CT Chest
+  link: projects/lung_nodule.html
+  plan: current
+  dataset:
+  training: done
+  test:
+
+- title: Fracture - Occult Carpal Detection in X-Ray -- Next Steps post TOHETI
+
+- title: Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis
+
+- title: Role of AI in detection of incidental Pulmonary Emboli
+
+- title: Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI
+
+- title: Assessment of rotational profiles in lower limb CT for pre surgical assessment
+
+- title: AI for for endoleak detection after endovascular aortic repair
+
+- title: A machine learning algorithm to aid in the detection of early rectal cancers/polyps
+
+- title: Developing AI for the planning of Endovascular aortic repair surgery
+
+- title: The use of AI in characterising incidental adrenal lesions on portovenous CT abdomen and pelvis
+
+- title: AI assisted interpretation of foraminal stenosis in MR spine scans
+
+- title: AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer
+
+- title: SPECT CT and evaluation of prosthetic loosening
+
+- title: Identifying radiological biomarkers in breast cancer patients on immune therapy
+
+- title: Detecting bowel perfroration in paediatric xrays

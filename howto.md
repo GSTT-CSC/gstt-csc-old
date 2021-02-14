@@ -31,15 +31,24 @@ description: Instructions, SOPs and guides
 5. Check with Haris about the changes you would like to make first
 6. In GHD, click current branch button and then click new branch
 7. Give it a short, sensible hyphen-separated name in the imperative e.g. update-team-page
-   
-   >  Your current branch should now show the name of your new branch
+
+      <div class="alert alert-info" role="alert">
+        Your current branch should now show the name of your new branch
+      </div>
    
 8. Open a terminal and change directory (cd) to where your repo was cloned
 9. Execute `bundle exec jekyll serve` 
    
-   >  The website should be available locally on `http://localhost:4000` now
+      <div class="alert alert-success" role="alert">
+        The website should be available locally on `http://localhost:4000` now
+      </div>
    
 10. Make changes to your code using your favourite editor/IDE (just use Pycharm)
+    
+      <div class="alert alert-info" role="alert">
+        If you're updating AI projects or team page, then you might just need to edit the file in _data/
+      </div>
+
 11. Commit your code once you're happy with your changes using the template below
 12. Publish your branch to github
 13. On the Github website, go to `Pull requests` and click `New pull request`

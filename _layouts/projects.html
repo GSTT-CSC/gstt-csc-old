@@ -1,0 +1,31 @@
+---
+layout: base
+---
+<style>
+nav {
+  background-color: linen;
+}
+</style>
+{% include work_navbar.html %}
+
+{{ content }}
+
+<table style="width:100%">
+  <tr>
+      <th>Title</th>
+      <th>Plan agreed</th>
+      <th>Dataset</th>
+      <th>Training</th>
+      <th>Test</th>
+  </tr>
+{% for project in site.data.work %}
+  <tr>
+      <td>{% if project.link %}<a href="{{project.link}}">{% endif %}{{project.title}}</td>
+      <td>{% if project.plan == 'current' %} ⏳ {% elsif project.plan == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
+      <td>{% if project.dataset == 'current' %} ⏳ {% elsif project.dataset == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
+      <td>{% if project.training == 'current' %} ⏳ {% elsif project.training == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
+      <td>{% if project.test == 'current' %} ⏳ {% elsif project.test == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
+  </tr>
+{% endfor %}
+
+</table>

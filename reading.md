@@ -1,10 +1,18 @@
 # **Reading List**
 
-* [Medical Devices](#meddev)
-* [Python](#python)
-* [DevOps](#devops)
-* [Machine Learning](#ml)
-* [Clinical Informatics](#informatics)
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Contents</h5>
+        <ul>
+        <li><a href="#meddev">Medical Devices</a></li>
+        <li><a href="#python">Python</a></li>
+        <li><a href="#devops">Devops</a></li>
+        <li><a href="#ml">Machine Learning</a></li>
+        <li><a href="#informatics">Clinical Informatics</a></li>
+        </ul>
+   </div>
+</div>
+<hr>
 
 ## <a name=meddev></a>Medical Devices 
 * [Something](#someting)

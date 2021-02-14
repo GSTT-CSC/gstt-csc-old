@@ -1,0 +1,19 @@
+- name: Haris Shuaib
+  role: Head
+  image: assets/Haris.png # Can be external link
+  description: > # Can be Markdown
+    TBC.
+  orcid: 0000-0001-6975-5960
+  email: haris.shuaib@gstt.nhs.uk
+  github: hshuaib90
+  twitter: haris_shuaib
+
+- name: Dika
+
+- name: Lucy
+
+- name: Simone
+
+- name: Laurence
+
+- name: Anil

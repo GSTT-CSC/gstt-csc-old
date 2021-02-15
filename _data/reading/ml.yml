@@ -1,0 +1,19 @@
+name: Machine Learning
+list:
+  - name: Guidance - A guide to good practice for digital and data-driven health technologies
+    link: https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology
+
+  - name: Best-practice guidance for the in-house manufacture of medical devices and non- medical devices, including software in both cases, for use within the same health institution
+    link: https://www.ipem.ac.uk/Portals/0/IHMU%20best-practice%20guidance%20FINAL.pdf?ver=2021-01-18-101840-073
+
+  - name: Pytorch
+    link: https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
+
+  - name: MONAI
+    link: https://monai.io
+
+  - name: ML with limited data
+    link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/941511/Machine_Learning_with_Limited_Data_original_version_.pdf
+
+  - name: Continuous delivery for ML
+    link: https://martinfowler.com/articles/cd4ml.html

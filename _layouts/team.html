@@ -2,7 +2,7 @@
 layout: default
 description: Template for team page
 ---
-{{ content }}
+
 <ul class="list-inline">
 {% for member in site.data.team %}
   <li class="list-inline-item" style="padding: 1rem">
@@ -51,4 +51,4 @@ description: Template for team page
 {% endfor %}
 </ul>
 
-On this page you can add/edit team members by defining them in <code>_data/team.yml`</code>
+{{ content }}

@@ -1,0 +1,25 @@
+name: DevOps
+list:
+  - name: UNIX Tutorial for Beginners
+    link: http://www.ee.surrey.ac.uk/Teaching/Unix
+
+  - name: Git
+    link: https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+  - name: Git-flow
+    link: https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
+  - name: Unit testing
+    link: https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
+
+  - name: Test-driven development
+    link: http://agiledata.org/essays/tdd.html
+
+  - name: Agile software development
+    link: http://agilemanifesto.org/principles.html)
+
+  - name: Continuous Delivery
+    link: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+
+  - name: Docker
+    link: https://docs.docker.com/engine/docker-overview/

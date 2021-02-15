@@ -1,0 +1,17 @@
+- name: DeployStack
+  description: |
+    DeployStack is a list of the best, hand picked tools and services that you might need when launching a website.
+  link: https://switowski.github.io/deploystack/
+
+- name: Free-for.dev
+  description: |
+    This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+    The scope of this particular list is limited to things that infrastructure developers
+    (System Administrator, DevOps Practitioners, etc.) are likely to find useful.
+  link: https://free-for.dev/
+
+- name: The Cancer Imaging Archive (TCIA)
+  description: |
+    The Cancer Imaging Archive (TCIA) is a service which de-identifies and hosts a large archive of medical images of
+    cancer accessible for public download.
+  link: https://www.cancerimagingarchive.net

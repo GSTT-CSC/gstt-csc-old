@@ -10,6 +10,10 @@
 - title: Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis
 
 - title: Role of AI in detection of incidental Pulmonary Emboli
+  plan: current
+  dataset:
+  training: done
+  test:
 
 - title: Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI
 
@@ -32,3 +36,7 @@
 - title: Identifying radiological biomarkers in breast cancer patients on immune therapy
 
 - title: Detecting bowel perfroration in paediatric xrays
+  plan: current
+  dataset:
+  training: 
+  test:

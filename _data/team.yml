@@ -9,6 +9,14 @@
   twitter: haris_shuaib
 
 - name: Dika
+  role: Clinical Scientist
+  image: assets/Dika.jpg # Can be external link
+  description: > # Can be Markdown
+    TBC.
+  orcid: 0000-0003-3094-8882
+  email: dijana.vilic@gstt.nhs.uk
+  github: dangerdika
+  twitter: DijanaVilic
 
 - name: Lucy
 

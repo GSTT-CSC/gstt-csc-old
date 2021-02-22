@@ -130,8 +130,6 @@ GEM
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
-    jekyll-pdf-embed (1.1.0)
-      jekyll
     jekyll-readme-index (0.3.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -255,6 +253,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -263,8 +262,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (~> 3.3)
-  jekyll-pdf-embed
   jekyll-theme-time-machine
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.2.7

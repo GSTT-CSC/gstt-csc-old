@@ -6,13 +6,13 @@
 | --- | --- |
 | CSC lead | Laurence Jackson |
 | --- | --- |
-| AI Centre Number | AIC008 |
+| AI Centre Number | AIC005 |
 | --- | --- |
-| Rationale | A machine learning algorithm to aid in the detection of early rectal cancers/polyps from MRI data.  |
+| Rationale | bim  |
 | --- | --- |
 | Modality | MRI |
 | --- | --- |
-| Pathology | Rectal cancer |
+| Pathology | Occult carpal fracture |
 | --- | --- |
 | Details | bim |
 | --- | --- |
@@ -32,4 +32,4 @@
 | --- | --- |
 | Project Plan | bim |
 | --- | --- |
-| References | [1] Lee, Joohyung, et al. "Reducing the model variance of a rectal cancer segmentation network." IEEE Access 7 (2019): 182725-182733.] |
+| References | bim |

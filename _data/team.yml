@@ -22,7 +22,7 @@
 
 - name: Simone
   role: Clinical Scientist
-  image: assets/Simone.png # Can be external link
+  image: assets/Simone.jpg # Can be external link
   description: > # Can be Markdown
     TBC.
   orcid: https://orcid.org/0000-0003-1571-0016

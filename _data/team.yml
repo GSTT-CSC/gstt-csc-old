@@ -19,5 +19,12 @@
   email: Simone.Ambrogio@gstt.nhs.uk
 
 - name: Laurence
+  role: Clinical Scientist
+  image: assets/Laurence.png # Can be external link
+  description: > # Can be Markdown
+      TBC.
+  orcid: 0000-0002-5904-8012
+  email: laurence.jackson@gstt.nhs.uk
+  github: laurencejackson
 
 - name: Anil

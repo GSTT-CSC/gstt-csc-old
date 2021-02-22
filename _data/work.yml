@@ -12,6 +12,11 @@
 - title: Role of AI in detection of incidental Pulmonary Emboli
 
 - title: Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI
+  link: projects/occult_carpal_detection_in_mri.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: Assessment of rotational profiles in lower limb CT for pre surgical assessment
 

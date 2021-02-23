@@ -19,6 +19,13 @@
   twitter: DijanaVilic
 
 - name: Lucy
+  role: AI Project Manager
+  image: assets/Lucy.jpg
+  description:
+      TBC.
+  email: lucy.1.funnell@kcl.ac.uk
+  github: lucy-funnell
+  twitter: lucyfunnell3
 
 - name: Simone
   role: Clinical Scientist

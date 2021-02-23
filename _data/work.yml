@@ -27,6 +27,11 @@
 - title: AI for for endoleak detection after endovascular aortic repair
 
 - title: A machine learning algorithm to aid in the detection of early rectal cancers/polyps
+  link: projects/AIC008-detection-of-early-rectal-cancers-polyps.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: Developing AI for the planning of Endovascular aortic repair surgery
 

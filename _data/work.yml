@@ -6,8 +6,18 @@
   test:
 
 - title: Fracture - Occult Carpal Detection in X-Ray -- Next Steps post TOHETI
+  link: projects/AIC002-occult-carpal-detection-xray.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis
+  link: projects/AIC003-osteoporosis.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: Role of AI in detection of incidental Pulmonary Emboli
   plan: current
@@ -42,6 +52,11 @@
 - title: AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer
 
 - title: SPECT CT and evaluation of prosthetic loosening
+  link: projects/AIC013-SPECTCT-prosthetic-loosening.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: Identifying radiological biomarkers in breast cancer patients on immune therapy
 

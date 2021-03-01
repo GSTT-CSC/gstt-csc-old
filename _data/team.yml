@@ -45,3 +45,15 @@
   github: laurencejackson
 
 - name: Anil
+  role: Clinical Scientist
+  image: assets/Anil.jpeg
+  description: > # Can be Markdown
+     TBC.
+  email: anil.mistry@gstt.nhs.uk
+  github: AnilMistry
+  twitter: A_K_Mistry
+  
+
+  
+  
+

@@ -14,3 +14,4 @@ description: What we'll do, are doing, have done
 * [ ] AI Engineering
 * [ ] AI Tactics
 * [ ] AI Strategy
+* [ ] [10x Workshops](/people/10x_workshops.html)

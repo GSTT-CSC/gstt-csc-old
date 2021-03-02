@@ -10,3 +10,4 @@ description: What we'll do, are doing, have done
 * [ ] Cloud deployment as a service for AI
 * [ ] Compliance-as-Code
 * [ ] [Best Practice As A Service](https://marcus-baw.medium.com/royal-colleges-3-0-best-practice-as-code-7065bce821a7)
+* [ ] [Secure enclave](/platforms/secure-enclave.html)

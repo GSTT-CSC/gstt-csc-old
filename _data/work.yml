@@ -20,6 +20,7 @@
   test:
 
 - title: Role of AI in detection of incidental Pulmonary Emboli
+  link: projects/AIC004_IncidentalFindingPE_CT.html
   plan: current
   dataset:
   training: done

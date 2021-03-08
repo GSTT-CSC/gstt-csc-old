@@ -34,6 +34,11 @@
   test:
 
 - title: Assessment of rotational profiles in lower limb CT for pre surgical assessment
+  link: projects/AIC006-rotational-profiles.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: AI for for endoleak detection after endovascular aortic repair
 
@@ -47,6 +52,11 @@
 - title: Developing AI for the planning of Endovascular aortic repair surgery
 
 - title: The use of AI in characterising incidental adrenal lesions on portovenous CT abdomen and pelvis
+  link: projects/AIC010-adrenal-adenomas.html
+  plan: current
+  dataset:
+  training:
+  test:
 
 - title: AI assisted interpretation of foraminal stenosis in MR spine scans
 

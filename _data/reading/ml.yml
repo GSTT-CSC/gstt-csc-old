@@ -1,5 +1,8 @@
 name: Machine Learning
 list:
+  - name: CS329s Machine Learning Systems Design Course (Stanford)
+    link: https://stanford-cs329s.github.io/syllabus.html
+    
   - name: Guidance - A guide to good practice for digital and data-driven health technologies
     link: https://www.gov.uk/government/publications/code-of-conduct-for-data-driven-health-and-care-technology/initial-code-of-conduct-for-data-driven-health-and-care-technology
 

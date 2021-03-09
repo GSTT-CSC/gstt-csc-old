@@ -1,8 +1,3 @@
-<!--
-This is the project template. Please make a copy of it with the appropriate name following the 
-established syntax and edit that. When you're done, add the link to your project file in _data/work.yml. 
- 
--->
 # **Prosthetic Loosening**
 
 | Project Title | SPECT CT and evaluation of prosthetic loosening |

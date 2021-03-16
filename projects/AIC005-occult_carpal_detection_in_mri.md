@@ -14,8 +14,6 @@
 | --- | --- |
 | Pathology | Occult carpal fracture |
 | --- | --- |
-| Details | bim |
-| --- | --- |
 | Description | Scaphoid and Occult carpal fractures are a significant economic burden on society and the TOHETI study demonstrated economic advantages of primary scanning with short sequence MRI. We aim to develop an AI application to interpret MRI to increase sensitivity and confidence of diagnosis. This should enable rapid turnaround treatment and discharge of these patients, many of whom are treated unnecessarily. If applied this is likely to benefit communities where there are fewer radiologists available for image interpretation and allow triage of reporting. |
 | --- | --- |
 | Patient pathway | Patients with suspected scaphoid or occult carpal fracture are given an x-ray in A&E, if practitioner cannot identify a fracture patient is referred for MRI.  |

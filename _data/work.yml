@@ -27,7 +27,7 @@
   test:
 
 - title: Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI
-  link: projects/occult_carpal_detection_in_mri.html
+  link: projects/AIC005-occult_carpal_detection_in_mri.html
   plan: current
   dataset:
   training:

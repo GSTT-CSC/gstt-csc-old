@@ -2,9 +2,9 @@
 
 | Project Title | Automatic lung nodule detection and characterisation on CT Chest |
 | --- | --- |
-| Clinical lead(s) | bim |
+| Clinical lead(s) |  |
 | --- | --- |
-| CSC lead | [Haris](team/haris.md) |
+| CSC lead | [Anil](team/Anil.md) |
 | --- | --- |
 | <b>Rationale</b> | The identification and characterisation of lung nodules for lung cancer indication is a repetitive and time-consuming process, and the burden of small team specialist thoracic radiologists. AI software that performs as well as a thoracic radiologist could provide initial assessment on all low-dose chest CT’s with incidental lung nodule pick-ups.  |
 | --- | --- |
@@ -24,7 +24,7 @@
 | --- | --- |
 | <b>Criteria for success</b> | Non-inferiority to trained thoracic radiologist for lung nodule detection. Reduction in radiologist workload. |
 | --- | --- |
-| Commercial products available | `nb. check <http://grand-challenge.org/aiforradiology/>` |
+| Commercial products available | Veye Chest (Aidence) <a href="https://www.nice.org.uk/advice/mib243/resources/artificial-intelligence-for-analysing-chest-ct-images-pdf-2285965631267269"> Report </a> |
 | --- | --- |
 | <b>Other considerations</b> |  |
 | --- | --- |

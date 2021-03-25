@@ -1,5 +1,8 @@
 name: Machine Learning
 list:
+  - name: DSTL Biscuit book - Gentle introduction to AI
+    link: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/850129/The_Dstl_Biscuit_Book_WEB.pdf
+    
   - name: CS329s Machine Learning Systems Design Course (Stanford)
     link: https://stanford-cs329s.github.io/syllabus.html
     

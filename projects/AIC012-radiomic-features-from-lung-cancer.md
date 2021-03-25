@@ -16,7 +16,7 @@
 | --- | --- |
 | <b>Patient pathway</b> | Patients receive a contrast enhanced CT then a biopsy for diagnosis and staging of lung cancer, the results of which determine the treatment path.  |
 | --- | --- |
-| <b>Training datasets</b> | Pre-operative Contrast enhanced Thorax CTs (2014-2018), collected into a database (n=500~600). Option of including recent CTs (2018 – present) with limited data on survival after surgery.  |
+| <b>Training datasets</b> | Pre-operative Contrast enhanced Thorax CTs (2014-2018), collected into a database (n = 500 ~ 600). Option of including recent CTs (2018 – present) with limited data on survival after surgery.  |
 | --- | --- |
 | <b>Consequences of errors</b> | Poor RF will develop a model with little predictive value. Mismanagement of patient treatment. Poor research outcomes. |
 | --- | --- |

@@ -61,6 +61,11 @@
 - title: AI assisted interpretation of foraminal stenosis in MR spine scans
 
 - title: AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer
+  link: projects/AIC012-radiomic-features-from-lung-cancer.html
+  plan:
+  dataset:
+  training:
+  test:
 
 - title: SPECT CT and evaluation of prosthetic loosening
   link: projects/AIC013-SPECTCT-prosthetic-loosening.html

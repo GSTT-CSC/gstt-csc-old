@@ -16,4 +16,4 @@ applications.
 ___
 
 ### Complete Sessions
-N/A
+<a href="/blogs/20210317-10x-Workshop1.html"> Our first workshop: 17/3/2021 </a>

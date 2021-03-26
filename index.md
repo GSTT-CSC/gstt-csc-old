@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Clinical Scientific Computing
+logo: assets/csc_transparent_logo_front.png
 description: Mission and Values
-background: assets/hero.jpg
+background: assets/hero copy.jpg
 ---
 
 # **Mission**

@@ -2,7 +2,7 @@
 layout: home
 logo: assets/csc_transparent_logo_front.png
 description: Mission and Values
-background: assets/hero copy.jpg
+background: assets/hero.jpg
 ---
 
 # **Mission**

@@ -1,4 +1,4 @@
- <b>Incidental Findings of PE
+# **Incidental pulmonary embolism (PE)**
 
 | Project Title | Role of AI in detection of incidental Pulmonary Emboli |
 | --- | --- |

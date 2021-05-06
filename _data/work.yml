@@ -82,3 +82,10 @@
   dataset: current
   training: 
   test:
+
+- title: Synthetic CT for MR-Only Prostate Radiotherapy Planning
+  link: projects/AIC018-synth_ct.md
+  plan: current
+  dataset: done
+  training:
+  test:

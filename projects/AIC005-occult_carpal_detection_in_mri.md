@@ -6,7 +6,7 @@ description: What we'll do, are doing, have done
 
 # **Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI**
 
-| Project Title | Automatic lung nodule detection and characterisation on CT Chest |
+| Project Title | Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI |
 | Clinical lead(s) | - |
 | <b>CSC lead</b> | [Laurence](/team/laurence.html) |
 | AI Centre Number | AIC005 |

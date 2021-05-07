@@ -1,6 +1,6 @@
 # **Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI**
 
-| Project Title | Automatic lung nodule detection and characterisation on CT Chest |
+| Project Title | Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI |
 | --- | --- |
 | Clinical lead(s) | bim |
 | --- | --- |

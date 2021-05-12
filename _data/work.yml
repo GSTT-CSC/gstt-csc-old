@@ -84,7 +84,7 @@
   test:
 
 - title: Synthetic CT for MR-Only Prostate Radiotherapy Planning
-  link: projects/AIC018-synth_ct.md
+  link: projects/AIC018-synth_ct.html
   plan: current
   dataset: done
   training:

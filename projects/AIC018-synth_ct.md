@@ -1,4 +1,4 @@
-# ** Synthetic CT for MR-Only Prostate Radiotherapy Planning**
+# **Synthetic CT for MR-Only Prostate Radiotherapy Planning**
 
 | Project Title | AI to create a Synthetic CT for MR-Only Prostate Radiotherapy Planning|
 | --- | --- |

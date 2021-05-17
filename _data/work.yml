@@ -1,5 +1,5 @@
 - title: Automatic lung nodule detection and characterisation on CT Chest
-  link: projects/lung_nodule.html
+  link: projects/AIC001-lung_nodule.html
   plan: current
   dataset:
   training: done
@@ -81,4 +81,11 @@
   plan: current
   dataset: current
   training: 
+  test:
+
+- title: Synthetic CT for MR-Only Prostate Radiotherapy Planning
+  link: projects/AIC018-synth_ct.html
+  plan: current
+  dataset: done
+  training:
   test:

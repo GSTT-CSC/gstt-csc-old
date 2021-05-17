@@ -5,11 +5,12 @@ description: What we'll do, are doing, have done
 ---
 
 <!--
-This is the project template. Please make a copy of it with the appropriate name following the 
-established syntax and edit that. When you're done, add the link to your project file in _data/work.yml. 
- 
+This is the project template. Please make a copy of it with the appropriate name following the
+established syntax and edit that. When you're done, add the link to your project file in _data/work.yml.
+
 -->
 # **[short project title here]**
+
 
 | Project Title | [full project title] |
 | <b>Clinical lead(s)</b> | [enter the name of clinical lead only after you have agreed to do so with the clinician] |

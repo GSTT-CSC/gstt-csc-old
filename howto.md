@@ -40,7 +40,19 @@ description: Instructions, SOPs and guides
       </div>
    
 8. Open a terminal and change directory (cd) to where your repo was cloned
-9. Execute `bundle exec jekyll serve` 
+
+9. Execute `bundle install`
+   
+    <div class="alert alert-danger" role="alert">
+        For M1 Apple Macs instead do <code>arch -arch x86_64 bundle install</code>
+    </div>
+
+
+9. Execute `bundle exec jekyll serve`
+
+     <div class="alert alert-danger" role="alert">
+        For M1 Apple Macs instead do <code>arch -arch x86_64 bundle exec jekyll serve</code>
+    </div>
    
       <div class="alert alert-success" role="alert">
         The website should be available locally on `http://localhost:4000` now

@@ -20,3 +20,8 @@
   description: |
     The BSI publish standards relevant to our work in medical devices. Use KCL institutional login for access.
   link: https://bsol.bsigroup.com/
+
+- name: GitHub Student Developer Pack
+  description: |
+    Free access to the best developer tools in one place so they can learn by doing.
+  link: https://education.github.com/pack

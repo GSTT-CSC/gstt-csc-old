@@ -4,16 +4,19 @@
   dataset:
   training: done
   test:
+  stage: scoping
 
 - title: Fracture - Occult Carpal Detection in X-Ray -- Next Steps post TOHETI
   link: projects/AIC002-occult-carpal-detection-xray.html
-  plan: current
+  stage: backlog
+  plan: scoping
   dataset:
   training:
   test:
 
 - title: Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis
   link: projects/AIC003-osteoporosis.html
+  stage: scoping
   plan: current
   dataset:
   training:
@@ -21,6 +24,7 @@
 
 - title: Role of AI in detection of incidental Pulmonary Emboli
   link: projects/AIC004_IncidentalFindingPE_CT.html
+  stage: scoping
   plan: current
   dataset:
   training: done
@@ -28,6 +32,7 @@
 
 - title: Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI
   link: projects/AIC005-occult_carpal_detection_in_mri.html
+  stage: scoping
   plan: current
   dataset:
   training:
@@ -35,6 +40,7 @@
 
 - title: Assessment of rotational profiles in lower limb CT for pre surgical assessment
   link: projects/AIC006-rotational-profiles.html
+  stage: scoping
   plan: current
   dataset:
   training:
@@ -44,6 +50,7 @@
 
 - title: A machine learning algorithm to aid in the detection of early rectal cancers/polyps
   link: projects/AIC008-detection-of-early-rectal-cancers-polyps.html
+  stage: scoping
   plan: current
   dataset:
   training:
@@ -53,15 +60,18 @@
 
 - title: The use of AI in characterising incidental adrenal lesions on portovenous CT abdomen and pelvis
   link: projects/AIC010-adrenal-adenomas.html
+  stage: scoping
   plan: current
   dataset:
   training:
   test:
 
 - title: AI assisted interpretation of foraminal stenosis in MR spine scans
+  stage: backlog
 
 - title: AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer
   link: projects/AIC012-radiomic-features-from-lung-cancer.html
+  stage: backlog
   plan:
   dataset:
   training:
@@ -69,15 +79,18 @@
 
 - title: SPECT CT and evaluation of prosthetic loosening
   link: projects/AIC013-SPECTCT-prosthetic-loosening.html
+  stage: scoping
   plan: current
   dataset:
   training:
   test:
 
 - title: Identifying radiological biomarkers in breast cancer patients on immune therapy
+  stage: backlog
 
 - title: Detecting bowel perforation in paediatric xrays
   link: projects/AIC015_Carnax_Paediatric_Xray.html
+  stage: developing
   plan: current
   dataset: current
   training: 
@@ -85,6 +98,7 @@
 
 - title: Synthetic CT for MR-Only Prostate Radiotherapy Planning
   link: projects/AIC018-synth_ct.html
+  stage: evaluating
   plan: current
   dataset: done
   training:

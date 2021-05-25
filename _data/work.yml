@@ -91,7 +91,7 @@
   test:
 
 - title: Natural Language Processing of Endoscopic and associated pathology text to optimise post COVID endoscopy resources
-  link: projects/AIC016-NLP_endoscopic_resources_optimisation.html
+  link: projects/AIC017-NLP_endoscopic_resources_optimisation.html
   plan: current
   dataset:
   training:

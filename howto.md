@@ -5,7 +5,7 @@ description: Instructions, SOPs and guides
 ---
 
 
-<div class="card" style="width: 100%">
+<div class="card" style="width: 18rem;">
    <div class="card-body">
       <h5 class="card-title">Contents</h5>
       <ol>

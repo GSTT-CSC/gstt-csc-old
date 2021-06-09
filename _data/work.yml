@@ -53,5 +53,9 @@
   stage: developing
 
 - title: Synthetic CT for MR-Only Prostate Radiotherapy Planning
-  link: projects/AIC018-synth_ct.html
+  link: projects/AIC016-synth_ct.html
   stage: evaluating
+
+- title: Natural Language Processing of Endoscopic and associated pathology text to optimise post COVID endoscopy resources
+  link: projects/AIC017-NLP_endoscopic_resources_optimisation.html
+  stage: data curating

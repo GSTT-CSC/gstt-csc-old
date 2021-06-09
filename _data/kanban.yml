@@ -1,0 +1,29 @@
+- name: backlog
+  limit:
+
+- name: scoping
+  limit:
+
+- name: documenting
+  limit:
+
+- name: governance
+  limit:
+
+- name: contracting
+  limit:
+
+- name: data curating
+  limit:
+
+- name: developing
+  limit:
+
+- name: evaluating
+  limit:
+
+- name: reporting
+  limit:
+
+- name: graveyard
+  limit:

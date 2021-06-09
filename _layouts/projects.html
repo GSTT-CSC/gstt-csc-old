@@ -20,27 +20,40 @@ tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
+
+.break-out {
+  width: 100vw;
+  position: relative;
+  left: calc(-1 * (100vw - 100%) / 2);
+  color: rgba(0,0,0,.6);
+}
 </style>
 {% include work_navbar.html %}
 
+<div class="break-out">
+  <div class="overflow-auto row flex-row flex-nowrap mt-4 pb-4 pt-2">
+      {% for stage in site.data.kanban %}
+        <div class="col-2">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <h6 class="card-title text-uppercase text-truncate py-2">{{stage.name}}</h6>
+                    <div class="items border border-light">
+                        {% for project in site.data.work %}
+                        {% if stage.name == project.stage %}
+                        <div class="card shadow-sm mb-4">
+                            <div class="card-body p-2">
+                                <div class="card-title">{{project.title}}</div>
+                                <a class="btn btn-primary btn-sm" href="{{project.link}}" role="button">View</a>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+      {% endfor %}
+  </div>
+</div>
+
 {{ content }}
-
-<table style="width:100%">
-  <tr>
-      <th>Title</th>
-      <th>Plan agreed</th>
-      <th>Dataset</th>
-      <th>Training</th>
-      <th>Test</th>
-  </tr>
-{% for project in site.data.work %}
-  <tr>
-      <td>{% if project.link %}<a href="{{project.link}}">{% endif %}{{project.title}}</td>
-      <td>{% if project.plan == 'current' %} ⏳ {% elsif project.plan == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
-      <td>{% if project.dataset == 'current' %} ⏳ {% elsif project.dataset == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
-      <td>{% if project.training == 'current' %} ⏳ {% elsif project.training == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
-      <td>{% if project.test == 'current' %} ⏳ {% elsif project.test == 'done' %} ✅ {% else %} ➖ {% endif %}</td>
-  </tr>
-{% endfor %}
-
-</table>

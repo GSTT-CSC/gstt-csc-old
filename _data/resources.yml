@@ -20,3 +20,10 @@
   description: |
     The BSI publish standards relevant to our work in medical devices. Use KCL institutional login for access.
   link: https://bsol.bsigroup.com/
+  
+- name: Open Grants
+  description: |
+    An increasing number of researchers are sharing their grant proposals openly. 
+    They do this to open up science so that all stages of the process can benefit from better interaction and communication 
+    and to provide examples for early career scientists writing grants. This is a list of some of these proposals to help you find them.
+  link: https://www.ogrants.org

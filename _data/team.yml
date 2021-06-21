@@ -53,6 +53,14 @@
   email: anil.mistry@gstt.nhs.uk
   github: AnilMistry
   twitter: A_K_Mistry
+
+- name: Dr Alexander T Deng
+  role: Fellow in Clinical Artificial Intelligence
+  image: assets/Alex.jpg
+  description: > # Can be Markdown
+
+  github: alexandertdeng
+
   
 
   

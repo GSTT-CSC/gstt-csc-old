@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | A machine learning algorithm to aid in the detection of early rectal cancers/polyps.  |
 | <b>Clinical lead(s)</b> | Tina Mistry |
-| <b>CSC lead</b> | [Laurence](/team/laurence.html) |
+| <b>CSC lead</b> | [Laurence Jackson](/team.html) |
 | <b>Rationale</b> | Development of an AI tool to identify areas of concern that may indicate early development of cancer and polyps in rectal MRI images |
 | <b>Modality</b> | MRI |
 | <b>Pathology</b> | Rectal cancer/polyps |

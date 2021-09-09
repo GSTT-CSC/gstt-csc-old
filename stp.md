@@ -4,6 +4,31 @@ title: Scientist Training Programme
 description: NHS STP Programme
 ---
 
+<br>
+### Overview
+This page provides an overview of the expectations and experience of NHS STP students undertaking placements with the CSC Team. 
+<br>
+
+---
+
+<br>
+
+### Curriculum 
+
+**Bioinformatics**
+<br>
+<a href="https://curriculum.nshcs.org.uk/programmes/stp/module/SBI102"> NSHCS - Information and Communications Technology in the Clinical Environment (SBI102) </a>
+<br>
+
+---
+
+<br>
+### Student Experiences
+<a href="/blogs/20210825-STP_blog.html"> Bioimformatics STP short rotation - Blog </a>
+<br>
+
+---
+### Other
 - MSc program for Clinical Bioinformatics (physical sciences) which is run by Manchester Academy for HCS education: https://mahse.co.uk/for-supervisors/. It seems most of the course is delivered by the university of Liverpool.
 
 - Course leader for the MSc is: Helen Boston hboston@liverpool.ac.uk (see attached presentation in email on this – bit old but gives some further contact details etc)

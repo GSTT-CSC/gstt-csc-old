@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Blog</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for blog in site.data.blog %}
+  <tr>
+    <td>{% if blog.link %}<a href="{{ blog.link }}">{{ blog.name }}</a>{% else %} {{ blog.name }}{% endif %}</td>
+    <td>{{ blog.description }}</td>
+  </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+{{ content }}

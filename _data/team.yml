@@ -60,6 +60,15 @@
   description: > # Can be Markdown
 
   github: alexandertdeng
+  
+- name: Lucrezia
+  role: AI Engineer
+  image: assets/Lu_pic.jpeg
+  description: > # Can be Markdown
+
+  email: lucrezia.cester@gstt.nhs.uk
+  github: Lucrezia-Cester
+  
 
   
 

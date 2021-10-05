@@ -1,0 +1,30 @@
+- name: SVM, Naive Bayes,
+  description: |
+    Small training set? Take a look at these algorithms.
+  link: https://scikit-learn.org/stable/modules/svm.html
+  link: https://scikit-learn.org/stable/modules/naive_bayes.html
+  link: https://scikit-learn.org/stable/modules/tree.html
+
+- name: ResNet, VGG-16
+  description: |
+    State of the art image classification models.
+  link: https://github.com/keras-team/keras/blob/v2.6.0/keras/applications/vgg16.py#L43-L224
+  link: https://github.com/KaimingHe/deep-residual-networks
+
+- name: Dino, TransUNet, Detectron2
+  description: |
+    Models for image segmentation.
+  link: https://github.com/facebookresearch/dino
+  link: https://github.com/Beckschen/TransUNet
+  link: https://github.com/facebookresearch/detectron2
+
+- name: GPT-3
+  description: |
+    Need to extract useful information from text data? Models to perform NPL (natural language processing) tasks.
+  link: https://github.com/openai/gpt-3
+
+- name: LSTM
+  description: |
+    Model to classify time series data.
+  link: https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+

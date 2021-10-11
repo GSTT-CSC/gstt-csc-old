@@ -16,4 +16,7 @@ applications.
 ___
 
 ### Complete Sessions
-<a href="/blogs/20210317-10x-Workshop1.html"> Our first workshop: 17/3/2021 </a>
+<ol>
+<li><a href="/blogs/20210317-10x-Workshop1.html"> Our first workshop: 17/3/2021 </a></li>
+<li><a href="/blogs/20210602-10x-RacialBias.html"> Racial bias in AI workshop: 2/6/2021 </a></li>
+</ol>

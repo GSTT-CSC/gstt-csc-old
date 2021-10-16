@@ -58,7 +58,8 @@
   role: Fellow in Clinical AI
   image: assets/Alex.jpg
   description: > # Can be Markdown
-
+  orcid: 0000-0002-8121-817X
+  email: alexander.deng@gstt.nhs.uk
   github: alexandertdeng
 
   

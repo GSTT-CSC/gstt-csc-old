@@ -19,7 +19,7 @@ description: Instructions, SOPs and guides
 ## <a name=ANON></a>**XNAT: the anonymisation guide**
 `XNAT is a virtual platform capable of storing and managing medical images and associated data. Within Guy’s and St Thomas’ NHS Foundation Trust, it forms a part of the local secure enclave for the purposes of federated learning in artificial intelligence projects. The data is ingested from PACS into XNAT where it is anonymised and sorted into relevant projects, ensuring data is only visible to those who need it, and allowing for data deletion upon project completion. This guide describes the process of data collection, de-identification and data storage in XNAT and details how compliance with DICOM Supplement 142 is achieved.`
 <br><br>
-Medical imaging data is stored in a DICOM format. DICOM stands for *Digital Imaging and Communications in Medicine* and is an international standard format for medical image storage, retrieval, processing and transfer. DICOM images consist of the actual acquired image as a set of pixels and a DICOM header. Data coded within the DICOM header are a series of attributes describing the scan and the patient. Each attribute is tagged with a unique DICOM tag which consists of a group and element number and each tag has a name to identify the type of information (or attribute) contained within the tag. This prinicple of data tagging allows DICOMs to be compared, transferred, stored and queried.
+Medical imaging data is stored in a DICOM format. DICOM stands for *Digital Imaging and Communications in Medicine* and is an international standard format for medical image storage, retrieval, processing and transfer. DICOM images consist of the actual acquired image as a set of pixels and a DICOM header. Data coded within the DICOM header are a series of attributes describing the scan and the patient. Each attribute is tagged with a unique DICOM tag which consists of a group and element number and each tag has a name to identify the type of information (or attribute) contained within the tag. This principle of data tagging allows DICOMs to be compared, transferred, stored and queried.
 <br>
 <br>
 Before any medical data can be used in research or for training of AI algorithms, it must first be completely de-identified such that no data used can be traced back to any individual. To do this, the DICOM tags need to be altered, deleted or manipulated in such a way that the image no longer describes the individual. Because there are many DICOM tags within a DICOM header and since what is and what is not identifiable information is not always straightforward, a DICOM Standard Supplement 142 was created, outlining best anonymisation practices for purposes of clinical trials. We adopted the same standard for our de-identification purposes.
@@ -60,7 +60,7 @@ The project owner has the reading, writing, updating and deleting rights of all 
 The data will be stored on physical storage kept with GSTT.
 <br>
 <h2>Resources</h2>
-More information XNAT can be found on the [their website](https://www.xnat.org/).
+More information XNAT can be found on [their website](https://www.xnat.org/).
 <br>
 <br>
 More information on DICOM standard Supplement 142 concerning clinical trial de-identification can be found [here](https://www.dicomstandard.org/News-dir/ftsup/docs/sups/sup142.pdf).

@@ -9,8 +9,12 @@
   description: Summary of a 12 weeks placement
   link: blogs/20210825-STP_blog.html
 
+- name: 10x Workshop The Problem of Bias in AI
+  description: |
+    We held a workshop on racial bias in AI and strategies to combat it.
+  link: blogs/20210602-10x-RacialBias.html
+
 - name: 10x Workshop The pathway to integrating AI into NHS practice
   description: |
     Summary of our first workshop as we tackle project process mapping
   link: blogs/20210317-10x-Workshop1.html
-

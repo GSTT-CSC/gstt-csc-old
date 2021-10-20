@@ -25,30 +25,32 @@ description: Instructions, SOPs and guides
 1. Go to <https://github.com/GSTT-CSC/gstt-csc.github.io>
 2. Hit the green `Code` button
 3. Choose `Open with Github Desktop`
-   > You'll be asked to download it if you don't have it.
+   > You'll be asked to download it if you don't have it
    
 4. In Github Desktop (GHD), log in using your Github credentials and clone the repo locally
 
 #### Usual process  
 
-5. Check with Haris about the changes you would like to make first
-6. In GHD, click current branch button and then click new branch
-7. Give it a short, sensible hyphen-separated name in the imperative e.g. update-team-page
+5. First create an issue for the change you wish to implement. You can do this by visiting github (link in the first point) and click on the tab `Issues` and click `New issue`
+6. Describe the change you wish to implement in the comment box. Give it a sensible title that adequately represents the issue e.g. 'publish skills matrix'. Click on `Submit new issue`
+7. The issue will then be reviewed by a team member. Once the issue is approved, create a new branch
+8. To create a new branch in Github Desktop, click `current branch` button and then click `new branch`
+9. Give it a short, sensible hyphen-separated name in the imperative e.g. update-team-page
 
       <div class="alert alert-info" role="alert">
         Your current branch should now show the name of your new branch
       </div>
    
-8. Open a terminal and change directory (cd) to where your repo was cloned
+10. Open a terminal and change directory (cd) to where your repo was cloned
 
-9. Execute `bundle install`
+11. Execute `bundle install`
    
     <div class="alert alert-danger" role="alert">
         For M1 Apple Macs instead do <code>arch -arch x86_64 bundle install</code>
     </div>
 
 
-9. Execute `bundle exec jekyll serve`
+12. Execute `bundle exec jekyll serve`
 
      <div class="alert alert-danger" role="alert">
         For M1 Apple Macs instead do <code>arch -arch x86_64 bundle exec jekyll serve</code>
@@ -58,18 +60,18 @@ description: Instructions, SOPs and guides
         The website should be available locally on `http://localhost:4000` now
       </div>
    
-10. Make changes to your code using your favourite editor/IDE (just use Pycharm)
+13. Make changes to your code using your favourite editor/IDE (just use Pycharm)
     
       <div class="alert alert-info" role="alert">
         If you're updating AI projects or team page, then you might just need to edit the file in _data/
       </div>
 
-11. Commit your code once you're happy with your changes using the template below
-12. Publish your branch to github
-13. On the Github website, go to `Pull requests` and click `New pull request`
-14. Make sure the `base` branch is `main` and the `compare` branch is your published branch
-15. Click `Create pull request`
-16. This will allow your code to be reviewed by a team member and then merged into live website!
+14. Commit your code once you're happy with your changes using the template below
+15. Publish your branch to github
+16. On the Github website, go to `Pull requests` and click `New pull request`
+17. Make sure the `base` branch is `main` and the `compare` branch is your published branch
+18. Click `Create pull request`
+19. This will allow your code to be reviewed by a team member and then merged into live website!
 
 **Commit template** (read more here: <https://chris.beams.io/posts/git-commit/>> 
 >      Summarize changes in around 50 characters or less

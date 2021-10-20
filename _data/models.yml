@@ -1,7 +1,7 @@
 - names: [SVM, Naive Bayes, Decision Tree]
   description: |
     Small training set? Take a look at these algorithms.
-  links: [https://scikit-learn.org/stable/modules/svm.html, https://scikit-learn.org/stable/modules/naive_bayes.html,https://scikit-learn.org/stable/modules/tree.html]
+  links: ["https://scikit-learn.org/stable/modules/svm.html", https://scikit-learn.org/stable/modules/naive_bayes.html,https://scikit-learn.org/stable/modules/tree.html]
 
 
 - names: [ResNet, VGG-16]

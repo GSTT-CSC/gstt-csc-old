@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Model</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for model in site.data.models %}
+  <tr>
+    <td>
+      {% for name in model.names %}
+      <a href="{{ model.links[forloop.index0] }}">{{ name }}</a>
+      {% endfor %}
+    </td>
+    <td>{{ model.description }}</td>
+  </tr>
+{% endfor %}
+  </tbody>
+</table>
+
+{{ content }}

@@ -61,6 +61,15 @@
   orcid: 0000-0002-8121-817X
   email: alexander.deng@gstt.nhs.uk
   github: alexandertdeng
+  
+- name: Lucrezia
+  role: AI Engineer
+  image: assets/Lu_pic.jpeg
+  description: > # Can be Markdown
+
+  email: lucrezia.cester@gstt.nhs.uk
+  github: Lucrezia-Cester
+  
 
   
 

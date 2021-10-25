@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | Automatic lung nodule detection and characterisation on CT Chest |
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Anil](team/Anil.html) |
+| <b>CSC lead</b> | [Anil](team.html) |
 | <b>Rationale</b> | The identification and characterisation of lung nodules for lung cancer indication is a repetitive and time-consuming process, and the burden of small team specialist thoracic radiologists. AI software that performs as well as a thoracic radiologist could provide initial assessment on all low-dose chest CT’s with incidental lung nodule pick-ups.  |
 | <b>Modality</b> | Low-dose CT (LDCT) of the chest |
 | <b>Pathology</b> | Lung nodule growth, lung cancer |

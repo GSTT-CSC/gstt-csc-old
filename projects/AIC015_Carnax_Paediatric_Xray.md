@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | Project Title | Carnax - computer assisted reporting of neonatal abdominal x rays |
 | <b>Clinical lead(s)</b> | TBC |
-| <b>CSC lead</b> | [Simone](/team/simone.html) |
+| <b>CSC lead</b> | [Simone](/team.html) |
 | <b>Rationale</b> | AI-based medical imaging tool for detection of intestinal perforation in preterm neonates (abdominal x ray)  |
 | <b>Modality</b> | Abdominal X Ray (Paediatric) |
 | <b>Pathology</b> | Perforation of the intestine in preterm new-born babies |

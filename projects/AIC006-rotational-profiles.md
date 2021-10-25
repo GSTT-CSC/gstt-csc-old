@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | Assessment of rotational profiles in lower limb CT for pre surgical assessment |
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Anil](/team/Anil.html) |
+| <b>CSC lead</b> | [Anil](/team.html) |
 | <b>Rationale</b> | Assessment of rotational profiles is time consuming and complex. An AI algorithm would significantly decrease the amount of time needed to measure the angles of rotation. |
 | <b>Modality</b> | CT |
 | <b>Pathology</b> | Lower limb rotation |

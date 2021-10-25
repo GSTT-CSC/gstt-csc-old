@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | Project Title | Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI |
 | Clinical lead(s) | - |
-| <b>CSC lead</b> | [Laurence](/team/laurence.html) |
+| <b>CSC lead</b> | [Laurence](/team.html) |
 | AI Centre Number | AIC005 |
 | Rationale | Scaphoid and occult carpal fractures can be difficult to identify in MR images, typically requiring specialist radiologists that are not always available. This project aims to develop an AI application that can automatically identify these fractures.  |
 | Modality | MRI |

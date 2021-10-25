@@ -1,5 +1,5 @@
 ---
 layout: models
-title: MODELS
-description: mostly used, newly developed AI models for your data type
+title: Models
+description: Commonly used and newly developed AI models for your data type
 ---

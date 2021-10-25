@@ -25,7 +25,7 @@ As the project evolves, write updates in plain markdown after the table as the P
 | <b>Consequences of errors</b> | [what happens if AI gets it wrong?] |
 | <b>Goals</b> | [what are we hoping to achieve with this?] |
 | <b>Criteria for success</b> | [how will we know it is useful? what do we want to see happen?] |
-| <b>Commercial products available</b> | [links to any relevant commercial products else write 'N/A'] | |
+| <b>Commercial products available</b> | [links to any relevant commercial products else write 'N/A'] |
 | <b>References</b> | [links to relevant journals, use the following syntax: <a href="URL"> TEXT HERE </a> ] |
 
 ___

@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | Project Title | Natural Language Processing of Endoscopic and associated pathology text to optimise post COVID endoscopy resources |
 | <b>Clinical lead(s)</b> | Sebastian Zeki |
-| <b>CSC lead</b> | Laurence Jackson(/team.html) |
+| <b>CSC lead</b> | [Laurence Jackson](/team.html) |
 | <b>Rationale</b> | Patients with premalignant disease of the upper gastrointestinal tract need to undergo regular endoscopic surveillance to prevent malignancy. The timing of endoscopic procedures is often inaccurate and many patients are either surveyed endoscopically late or inappropriately which becomes a healthcare resource burden. Using natural language processing to automatically caluclate follow up timings based on information in the EPR system |
 | <b>Modality</b> | Endoscopy, EPR|
 | <b>Pathology</b> | Premalignant disease of the upper gastrointestinal tract |

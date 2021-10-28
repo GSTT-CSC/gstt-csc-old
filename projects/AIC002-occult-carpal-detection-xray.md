@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | Fracture: Occult Carpal Detection in X-Ray -- Next Steps post TOHETI |
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Dika](/team/dika.html) |
+| <b>CSC lead</b> | [Dika](/team.html) |
 | <b>Rationale</b> | MRI is superior in identification of occult carpal fracture, but is not always accessible. An AI tool to aide clinical diagnosis of occult carpal fractures using x-rays would increase diagnostic sensitivity in areas and situations where MRI is not available.  |
 | <b>Modality</b> | X-ray |
 | <b>Pathology</b> | Occult carpal fractures (wrists and hands) |

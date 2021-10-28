@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | AI to extract Radiomic Features from CT images as non-invasive tool to predict outcome of patients with lung cancer|
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Anil](/team/anil.html) |
+| <b>CSC lead</b> | [Anil](/team.html) |
 | <b>Rationale</b> | Radiomic Features (RF) that are extracted from contrast enhanced CT of lung cancer and lymph nodes can be correlated with histology and survival outcomes to provide a non-invasive predictive tool to develop a multi-parametric predictive model to assistive the decisions in patient treatment.   |
 | <b>Modality</b> | Thorax CT (contrast enhanced)|
 | <b>Pathology</b> | Lung cancer with nodal involvement |

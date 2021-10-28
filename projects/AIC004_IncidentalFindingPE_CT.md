@@ -9,7 +9,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | Role of AI in detection of incidental Pulmonary Emboli |
 | <b>Clinical lead(s)</b> | TBC |
-| <b>CSC lead</b> | [Simone](/team/Simone.html) |
+| <b>CSC lead</b> | [Simone](/team.html) |
 | <b>Rationale</b> | Incidental findings of Pulmonary Emboli on routine cancer surveillance CT scans with contrast agent(Thorax/Abdomen/Pelvis)  |
 | <b>Modality</b> | Contrast enhanced CT (Thorax/Abdomen/Pelvis)  |
 | <b>Pathology</b> | Pulmonary Emboli (Incidental Findings)|

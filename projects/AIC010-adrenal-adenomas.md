@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | The use of AI in characterising incidental adrenal lesions on portovenous CT abdomen and pelvis |
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Dika](/team/dika.html) |
+| <b>CSC lead</b> | [Dika](/team.html) |
 | <b>Rationale</b> | Incidental findings of adrenal lesions occur relatively frequently in CT. Differentiation of the nature of these lesions would help reduce patient recall for further imaging. |
 | <b>Modality</b> | CT |
 | <b>Pathology</b> | Incidentally found adrenal lesions |

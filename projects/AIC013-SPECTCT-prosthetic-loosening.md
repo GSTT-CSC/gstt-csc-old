@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | SPECT/CT and evaluation of prosthetic loosening |
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Dika](/team/dika.html) |
+| <b>CSC lead</b> | [Dika](/team.html) |
 | <b>Rationale</b> | Prosthetic loosening is definitively diagnosed with a SPECT/CT. Around 40% of cases are not obvious and in 20% of cases the report is changed with further consultation. An AI tool would help in accuracy and increase confidence in reporting. |
 | <b>Modality</b> | SPECT/CT |
 | <b>Pathology</b> | Prosthetic loosening – mostly hip and knees, occasional elbow and shoulder |

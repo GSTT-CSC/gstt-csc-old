@@ -8,7 +8,7 @@ description: What we'll do, are doing, have done
 
 | Project Title | AI to create a Synthetic CT for MR-Only Prostate Radiotherapy Planning|
 | <b>Clinical lead(s)</b> |  Christopher Thomas|
-| <b>CSC lead</b> | [Anil](/team/anil.html) |
+| <b>CSC lead</b> | [Anil](/team.html) |
 | <b>Rationale</b> | MRI gives superior soft tissue contrast compared to CT images which allows more accurate contouring of internal organs and tumours for radiotherapy (RT). Only CT images, however, provide the voxel electron density data needed to calculate the dose distribution from radiation beams. Having an MRI with electron density information in the form of a “synthetic CT” (SynCT) would streamline imaging, reduced concomitant imaging dose, and improve contouring tumours and organs, thus reducing unnecessary dose to healthy tissues which is linked to reduced toxicity and complications post-treatment.    |
 | <b>Modality</b> | Radiotherapy CT, MRI|
 | <b>Pathology</b> | T3N0 Prostate Cancer |

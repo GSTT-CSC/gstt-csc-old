@@ -15,7 +15,7 @@ As the project evolves, write updates in plain markdown after the table as the P
 
 | Project Title | [full project title] |
 | <b>Clinical lead(s)</b> | [enter the name of clinical lead only after you have agreed to do so with the clinician] |
-| <b>CSC lead</b> | [Name](/team/name.html) |
+| <b>CSC lead</b> | [Name](/team.html) |
 | <b>Rationale</b> | [in short, why are we doing this?] |
 | <b>Modality</b> | [all relevant imaging modalities] |
 | <b>Pathology</b> | [what are we investigating?] |

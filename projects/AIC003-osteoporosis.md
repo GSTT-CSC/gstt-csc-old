@@ -9,7 +9,7 @@ description: What we'll do, are doing, have done
 
 | <b>Project Title</b> | Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis |
 | <b>Clinical lead(s)</b> |  |
-| <b>CSC lead</b> | [Dika](/team/dika.md) |
+| <b>CSC lead</b> | [Dika](/team.html) |
 | <b>Rationale</b> | 77% of scans with vertebral compression fractures are correctly identified and 43% scans recommend referrals – both of these numbers can be improved with AI tool. |
 | <b>Modality</b> | CT first, then x-ray, then MRI. |
 | <b>Pathology</b> | Vertebral compression fractures (spine) |

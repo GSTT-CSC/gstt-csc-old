@@ -1,4 +1,9 @@
-# **Workshop: The Problem of Bias in AI**
+---
+layout: default
+title: Workshop- The Problem of Bias in AI
+description: 02/06/2021
+---
+
 <br>
 The CSC team held a workshop on racial bias in AI and strategies to combat it on 2nd June 2021. As part of the preparation the team watched the Netflix documentary Coded Bias which discusses facial recognition bias in AI technology as experienced and published by Joy Buolamwini. More on her and her team’s work can be found <a href="https://www.ajl.org">here</a>. 
 <h2>The Case Studies</h2> 

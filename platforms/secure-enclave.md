@@ -1,5 +1,8 @@
-
-# **Secure enclave**
+---
+layout: default
+title: Secure Enclave
+description:
+---
 
 <br>
 <br>

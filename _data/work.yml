@@ -4,11 +4,11 @@
 
 - title: Fracture - Occult Carpal Detection in X-Ray -- Next Steps post TOHETI
   link: projects/AIC002-occult-carpal-detection-xray.html
-  stage: backlog
+  stage: data curating
 
 - title: Cross modality identification of vertebral compression fractures in the identification of background population osteoporosis
   link: projects/AIC003-osteoporosis.html
-  stage: documenting
+  stage: contracting
 
 - title: Role of AI in detection of incidental Pulmonary Emboli
   link: projects/AIC004_IncidentalFindingPE_CT.html
@@ -16,7 +16,7 @@
 
 - title: Fracture - Occult Carpal Detection in MRI -- Next Steps post TOHETI
   link: projects/AIC005-occult_carpal_detection_in_mri.html
-  stage: backlog
+  stage: data curating
 
 - title: Assessment of rotational profiles in lower limb CT for pre surgical assessment
   link: projects/AIC006-rotational-profiles.html
@@ -32,7 +32,7 @@
 
 - title: The use of AI in characterising incidental adrenal lesions on portovenous CT abdomen and pelvis
   link: projects/AIC010-adrenal-adenomas.html
-  stage: scoping
+  stage: backlog
 
 - title: AI assisted interpretation of foraminal stenosis in MR spine scans
   stage: backlog
@@ -43,7 +43,7 @@
 
 - title: SPECT CT and evaluation of prosthetic loosening
   link: projects/AIC013-SPECTCT-prosthetic-loosening.html
-  stage: scoping
+  stage: data curating
 
 - title: Identifying radiological biomarkers in breast cancer patients on immune therapy
   stage: backlog

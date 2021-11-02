@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{{ content }}
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Title</th>
+      <th scope="col">Type</th>
+      <th scope="col">Description</th>
+      <th scope="col">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in site.data.calendar %}
+  <tr>
+    <td>{{ item.date }}</td>
+    <td>{{ item.title }}</td>
+    <td>{{ item.type }}</td>
+    <td>{{ item.description }}</td>
+    <td>{{ item.links }}</td>
+  </tr>
+{% endfor %}
+  </tbody>
+</table>
+

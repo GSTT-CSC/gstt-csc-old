@@ -1,0 +1,27 @@
+# Add your calendar item here by filling in the titel date type description and links as below.
+# Add you calender Item in the correct position to maintain chronology : most recent first
+
+#  title:
+#  date:
+#  type:
+#  description:
+#  link
+
+
+- title: <b>Topol Fellowship</b>
+  date: Opens 8th Nov 2021
+  type: Fellowship
+  description: 12 month HEE fellowship to get £15,000 funding for a digital transformation project. <br><br> Open to clinical staff working in, or delivering services to, the NHS in England who are Band 5+ or post FY2. Deadline 8th Dec.
+  links: <a href= "https://topol.hee.nhs.uk/digital-fellowships/"> Homepage</a>
+
+- title: <b>Radiological Society of North America</b>
+  date: 28th Nov 2021
+  type: Conference
+  description: Radiology conference in Chicago for the 107th Scientific Assembly and Annual Meeting, Redefining Radiology
+  links: <a href= "Chicago for the 107th Scientific Assembly and Annual Meeting, Redefining Radiology/"> Registration</a>
+
+- title: <b>European Radiology Congress</b>
+  date: 2nd - 6th Mar 2022
+  type: Conference
+  description: ECR conference in Vienna
+  links: <a href= "https://www.myesr.org/registration"> Registration</a>

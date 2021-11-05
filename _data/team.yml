@@ -66,9 +66,16 @@
   role: AI Engineer
   image: assets/Lu_pic.jpeg
   description: > # Can be Markdown
-
   email: lucrezia.cester@gstt.nhs.uk
   github: Lucrezia-Cester
+
+- name: Tom
+  role: AI Engineer
+  image: assets/TomR.jpeg
+  description: > # Can be Markdown
+  orcid: 0000-0003-0385-1057
+  email: tom.roberts@gstt.nhs.uk
+  github: tomaroberts
   
 
   

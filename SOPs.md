@@ -74,12 +74,11 @@ The proposal will be sent to the Specialty QI & Audit lead for approval and then
 
 2.	Go to https://sp-pr-flipml01.gstt.local and log in with your username. If you do not have a username, contact Dika to make one for you.
 
-3.	If the project doesn’t exist yet, create it:
-    1.	New -> Project -> Fill in the boxes (project title, running title and project ID can be the same). Add the project description and the investigators (name and email are sufficient). Create the project. 
+3.	If the project doesn’t exist yet, please contact Dika to create it. If you have any specific anonymisation requirements, please let her know about them.
 
-4.	The project page will open. On the right-hand side, choose ‘Import From PACS’.
+4.	To open your project page, click on Browse - My Projects - and select the project you're working with. This will open your project page. On the right-hand side, choose ‘Import From PACS’. Please only use this option if you have a small number of scans to upload (<100). If you have a large cohort, it's recommended to use the Rest API to perform the upload. Speak to Dika about this.
 
-5.	This will open the data query-retrieve (DQR) page which allows you to query Sectra PACS for the requested images. 
+5.	If your dataset is reasonably small, use the DQR. Clicking on 'Import from PACS' will open the data query-retrieve (DQR) page which allows you to query Sectra PACS for the requested images. 
     <ul><li>You can use the DQR in two ways: by entering the search criteria or by importing a CSV file</li>
         <ol><li>Search criteria: you can use accession number or patient ID and date range and you can use * for wildcard. Click on ‘Search PACS’. Wait for the results to show. Once you find the correct scan(s), tick the box on the left-hand side. Then press the ‘Begin Import’ button at the bottom of the screen. A pop-up will appear to select all series which are relevant. Select all which are relevant (if you’re importing CTs, de-select the Dose Info, Dose Report and the Patient Protocol series, as they contain burnt-in patient data!). Click ‘Import’. </li>
             <li>CSV: you can upload a correctly-formatted CSV to perform a bulk search. This is described <a href=" https://wiki.xnat.org/xnat-tools/dicom-query-retrieve-plugin/using-dqr-bulk-querying-and-importing-via-CSV-file">here</a>. The CSV file should contain either your Accession Numbers (which uniquely identify a scan) or a Patient ID and a study date. If you're using the latter method, pay special attention to the formatting of the dates which should be YYYYMMDD to match the date formatting in PACS. To do the search click on ‘import CSV’ at the top of the page. Choose your CSV file. Click on ‘upload’. The query will begin – it may take a while. If an error occurs, test your CSV file by reducing it to only one query and see if that comes up with what you expect. Once you can query all you want at once without issue, you’ll have to select which scans to import. NB: XNAT can only handle about 20-30 import queries at once, else it will get stuck on retrieving series information screen. If you’re importing CTs, de-select the Dose Info, Dose Report and the Patient Protocol series, as those contain burnt-in images of dates and names. Click on ‘Import Selected’. Wait until you get a notification that the query had been sent to PACS. Then click on ‘Close’. You will need to upload the CSV again to select the next batch for import.</li>
@@ -100,7 +99,7 @@ The proposal will be sent to the Specialty QI & Audit lead for approval and then
 ## <a name=CogStackSearch></a>**Using Cogstack for data search**
 `CogStack is an information and extraction platform which allows us to search the EPR (electronic patient records). It is a catalogue of hospital documents and can be used to identify patient cohorts as well as search for clinical information for other purposes (e.g. AI software evaluation). Please note that CogStack is an index of documents and not an index of patients, so many answers will be buried in the free text of each document that will need analysis. Please also note that access to CogStack needs to be requested by your line manager. There are also two levels of access: a reader and an admin. If you are granted reader access, you will be able to search CogStack but not to export any data. If you need data export, please talk to a colleague with admin access and they can help you retrieve your CSV files.`
 
-1.	Log into the GSTT network and open a browser. <br>
+1.	Log into the GSTT network and open a browser. Please note that if you are using Citrix, you need to use Chrome -- it does not work with Internet Explorer. <br>
 
 2.	Go to https://cogstack.gstt.nhs.uk:5601 and select 'Log in with GSTT authentication'. You may be prompted to input your GSTT Username and Password.
 

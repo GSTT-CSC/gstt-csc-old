@@ -1,12 +1,12 @@
 // GSTT XNAT anonymisation/de-identification script
-// Copyright (c) 2020, Guys and St Thomas NHS Trust
+// Copyright (c) 2021, Guys and St Thomas NHS Trust
 // All Rights Reserved
 // This  script was written in August 2020 to suit the needs of GSTT and conforms to the Dicom Supplement 142.
 // It aims to de-identify all DICOM data uploaded to XNAT.
 // It retains patients age, size, weight, ethnic group, smoking status, pregnancy status and sex neutered status.
 // The manufacturer-specific DICOM data is not altered by this script.
 
-version "6.2"
+version "6.3"
 
 removeAllPrivateTags
 
@@ -260,13 +260,13 @@ removeAllPrivateTags
 (0018,0010) :="" // Replace Contrast Bolus Agent with a zero length value.
 
 
-//Shift all dates by 11 days
-(0008,0021) := shiftDateByIncrement[(0008,0021), "11"] // Change Series Date
-(0008,002A) := shiftDateByIncrement[(0008,002A), "11"] // Change Acquisition DateTime
-(0008,0022) := shiftDateByIncrement[(0008,0022), "11"] // Change Acquisition Date
-(0008,0020) := shiftDateByIncrement[(0008,0020), "11"] // Change Study Date
-(0008,0023) := shiftDateByIncrement[(0008,0023), "11"] // Change Content Date
-(0040,0244) := shiftDateByIncrement[(0008,0244), "11"] // Change Performed Procedure Step Start Date
+//Shift all dates by XX days
+(0008,0021) := shiftDateByIncrement[(0008,0021), "XX"] // Change Series Date
+(0008,002A) := shiftDateByIncrement[(0008,002A), "XX"] // Change Acquisition DateTime
+(0008,0022) := shiftDateByIncrement[(0008,0022), "XX"] // Change Acquisition Date
+(0008,0020) := shiftDateByIncrement[(0008,0020), "XX"] // Change Study Date
+(0008,0023) := shiftDateByIncrement[(0008,0023), "XX"] // Change Content Date
+(0040,0244) := shiftDateByIncrement[(0008,0244), "XX"] // Change Performed Procedure Step Start Date
 
 
 // Below are modality-specific tags which have been identified to, depending on manufacturer, 

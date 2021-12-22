@@ -1,0 +1,60 @@
+<!-- About -->
+  <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].roadmap.section | default: "about" }}">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].roadmap.title | markdownify | default: "About" }}</h2>
+          <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].roadmap.text | default: "roadmap"}}</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <ul class="roadmap">
+      {%- assign align = site.data.sitetext[site.locale].roadmap.start_align -%}
+      {%- for event in site.data.sitetext[site.locale].roadmap.events -%}
+            {%- if align == "right" -%}
+              {%- if event.align and event.align == "left" -%}
+                {%- assign align = "right" -%}
+                <li>
+              {%- else -%}
+                {%- assign align = "left" %}
+                <li class="roadmap-inverted">
+              {% endif %}
+            {% else %}
+              {%- if event.align and event.align == "right" -%}
+                {%- assign align = "left" -%}
+                <li class="roadmap-inverted">
+              {%- else -%}
+                {%- assign align = "right" %}
+                <li>
+              {% endif %}
+            {%- endif -%}
+              <div class="roadmap-image">
+                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+              </div>
+              <div class="roadmap-panel">
+                <div class="roadmap-heading">
+                  <h4>{{ event.year | markdownify }}</h4>
+                  <h4 class="subheading">{{ event.title }}</h4>
+                </div>
+                <div class="roadmap-body">
+                  <div class="text-muted">{{ event.desc | markdownify }}</div>
+                </div>
+              </div>
+            </li>
+		  {% endfor %}	
+            
+		  {% if site.data.sitetext[site.locale].roadmap.end %}	
+			<li class="roadmap-inverted">
+              <div class="roadmap-image">
+                <h4>{{ site.data.sitetext[site.locale].roadmap.end }}</h4>
+              </div>
+            </li>
+		  {% endif %}
+
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- End About -->

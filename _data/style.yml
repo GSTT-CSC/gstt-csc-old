@@ -1,0 +1,15 @@
+#Color Customization
+highlight: "#005F96"
+white: "#fbfaf8"
+#black: "#000"
+green: "#007753"
+blue: "#005f96"
+purple: "#645eaa"
+orange: "#d64933"
+
+#Image Customization
+header-image: "../img/9.png"
+contact-image: "../img/contact.png"
+logo: "../img/small_logo.png"
+#Font Awesome icon for portfolio grid when an item is hovered over
+#portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x

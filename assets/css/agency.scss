@@ -1,0 +1,31 @@
+---
+---
+@charset "utf-8";
+// Core variables and mixins
+@import "base/variables.scss";
+@import "base/mixins.scss";
+
+// Custom colors
+$primary: {{ site.data.style.highlight | default: "#d64933" }} !default;
+$white: {{ site.data.style.white | default: "#fbfaf8" }} !default;
+$black: {{ site.data.style.black | default: "#000" }} !default;
+$green: {{ site.data.style.green | default: "#007753" }} !default;
+$blue: {{ site.data.style.blue | default: "#005f96" }} !default;
+$purple: {{ site.data.style.purple | default: "#645eaa" }} !default;
+
+// Custom Images
+$header-image: "{{ site.data.style.header-image }}";
+$contact-image: "{{ site.data.style.contact-image }}";
+
+// Global CSS
+@import "base/page.scss";
+
+// Components
+@import "components/buttons.scss";
+@import "components/navbar.scss";
+
+// Layout
+@import "layout/masthead.scss";
+@import "layout/roadmap.scss";
+@import "layout/contact.scss";
+@import "layout/footer.scss";

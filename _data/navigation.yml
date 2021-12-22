@@ -1,0 +1,34 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  nav:
+    - title: "About Us"
+      section: /aboutus.html
+    - title: "People"
+      section: /people.html
+    - title: "Platforms"
+      section: /platforms.html
+    - title: "Policy"
+      section: /policy.html
+    - title: "Our Work"
+      section: /ourwork.html
+    - title: "Blog"
+      section: /blog.html
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

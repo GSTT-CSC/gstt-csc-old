@@ -1,4 +1,8 @@
-name: Evaluating
+name: Evaluation
 list:
   - name: Estimating the sample size for a pilot randomised trial to minimise the overall trial sample size for the external pilot and main trial for a continuous outcome variable
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4876429/
+  - name: The medical algorithm audit
+    link: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00003-6/fulltext
+  - name: To buy or not to buy—evaluating commercial AI solutions in radiology (the ECLAIR guidelines)
+    link: https://link.springer.com/article/10.1007/s00330-020-07684-x

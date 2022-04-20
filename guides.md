@@ -75,4 +75,34 @@ Below are our anonymisation scripts. Patient age, size, weight, ethnic group, sm
 [Project-level anonymisation script](assets/XNAT_anonymisation/Project-specific anon script.txt)
 
 
+<hr>
 
+
+## <a name=NDOO></a>**National Data Opt-Out Policy (NDOO)**
+`The national data opt-out was introduced on 25 May 2018, enabling patients to opt out from the use of their data for secondary uses, i.e. any use outside of direct clinical care, such as audit and research, in line with the recommendations of the National Data Guardian in her Review of Data Security, Consent and Opt-Outs. In order to comply with this policy, staff members must use the National Data Opt-Out Check Service to check whether a patient has a recorded opt-out before processing their data. This guide describes the process of using the service, achieving policy compliance, exempt use cases, and provides more information on the policy itself. The current compliance deadline is 30 June 2022.`
+
+The [National Data Opt-Out Check Service](https://optout.gstt.nhs.uk/#/login) is a web application which enables GSTT staff members to check whether a patient has a recorded opt-out. This service checks NHS Digital's National Opt-Out database by using their Message Exchange for Social Care and Health (MESH) and only staff members with up-to-date Information Governance training should use the service.
+
+Before processing patient data, staff members must perform this check and submit the NHS number(s) of the patient(s) eligible for inclusion in their project. Staff members can submit one NHS number or upload a CSV file with one or up to 100,000 NHS numbers per request. The response file will be sent to the GSTT email address indicated in the request and confirms the patients who have **not** opted out. For a step-by-step walkthrough, please refer to the NDOO Check Service section in the SOPs page [here](SOPs.md#NDOOCheckService).
+
+In order to comply with the NDOO policy, only patients contained in the response file should be retained and all patients who are **not** in the response file should be **removed** from the project.
+
+**Please note, however, that patients may choose to opt in or out throughout the lifespan of a project and so the NDOO Check Service must be used regularly, i.e. daily or any other regular basis as approved by Information Govenrance in the project's Data Protection Impact Assessment (DPIA).**
+<br>
+<h2>Recording patient opt-out</h2>
+Patients can view or change their national data opt-out choice at any time by either:
+<ul>
+<li>Using the NHS online service <a href="https://www.nhs.uk/your-nhs-data-matters">here</a></li>
+<li>Clicking on "Your Health" in the NHS App (download for iOS <a href="https://apps.apple.com/gb/app/nhs-app/id1388411277">here</a> and Android <a href="https://play.google.com/store/apps/details?id=com.nhs.online.nhsonline&hl=en_GB&gl=US">here</a>), and selecting "Choose if data from your health records is shared for research and planning".</li>
+</ul>
+<h2>Exempt Use Cases</h2>
+Existing projects that already use anonymised data are out of scope and can proceed without the NDOO check.
+<br>
+<h2>Resources</h2>
+For more information on the policy at the trust and national level, please refer to the GTi page [here](https://gti.gstt.local/services/infogov/national-data-opt-out.aspx) and the NHS Digital page [here](https://digital.nhs.uk/services/national-data-opt-out)
+<br>
+<br>
+For more information on NHS Digital's MESH service, please visit their page [here](https://digital.nhs.uk/services/message-exchange-for-social-care-and-health-mesh).
+<br>
+<br>
+For any other questions about the policy and achieving compliance, please reach out to the Information Governance team on their group email address [here](mailto:askIG@gstt.nhs.uk).

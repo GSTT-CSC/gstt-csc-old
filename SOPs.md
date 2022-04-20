@@ -10,7 +10,8 @@ description: Instructions, SOPs and guides
       <ol>
       1. <a href="#QIPS">Registering a project on QIPS</a><br>
       2. <a href="#XNATupload">Uploading data to XNAT</a><br>
-      3. <a href="#CogStackSearch">Using Cogstack for data search</a>
+      3. <a href="#CogStackSearch">Using Cogstack for data search</a><br>
+      4. <a href="#NDOO">Complying with the National Data Opt-Out Policy</a>
       </ol>
    </div>
 </div>
@@ -122,3 +123,20 @@ The proposal will be sent to the Specialty QI & Audit lead for approval and then
 9.  If you're looking for images, the index you need is the gstt_clinical_epr_results. The accession numbers for the images are stored under the keyword 'document_AncillaryReferenceID'. The accession numbers in this field may sometimes miss some letters, may be amended to include a hyphen, may be missing a number or have a 1 after 'RJ'. This is an indexing issue. If you find error, you can use the scan date and patient MRN to find the relevant imaging. Both will be exported along with the accession number in your CSV file.
 
 10. To save the results of your query and export them for further processing, first save your query by clicking on the saving menu on the left-hand side of the search bar and click on 'Save current query'. Name your query something sensible that will be easy to recognise. Once your query is saved, click on 'Share' on the top right corner, then select 'CSV Report'. You will then be able to export your results in a CSV file.
+
+
+
+<hr>
+
+
+
+## <a name=NDOOCheckService></a>**Using the National Data Opt-Out Check Service**
+`The National Data Opt-Out Check Service is a web application which enables GSTT staff members to check whether a patient has a recorded opt-out. The service checks the NHS Digital National Opt-Out database and only staff members with up-to-date Information Governance training should use the service.`
+
+1.	Log into the GSTT network and open your Internet browser. <br>
+
+2.	Go to the National Data Opt-Out Check Service [here](https://optout.gstt.nhs.uk/#/login) and log in with your GSTT username (without the "GSTT\") and password.
+
+3.	Select **Send a new search request** to request a new search by submitting either one NHS number or uploading a CSV file with one or up to 100,000 NHS numbers. The results will be sent to the GSTT email address indicated in the request.
+
+4.	Select **Check the status of a search** to check the status of a previous request by submitting the Request ID.
